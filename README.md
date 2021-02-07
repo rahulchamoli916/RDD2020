@@ -10,7 +10,9 @@ The Road Network has a spread over multi-million miles. Hence maintaining roads 
 Now we need to know, how can we resolve the problem of road maintenance. So there are three ways to do so (brief explanation is in the blog). 
 
 **Manual Method**
+
 **Semi-automated Method**
+
 **Fully-automated Method**
 
 ## Project Goal:
